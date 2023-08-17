@@ -1,0 +1,11 @@
+# ReportingMailThreatfeedsIndicatorSummaryDataResultSet
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**domain** | **list[dict(str, object)]** |  | [optional] 
+**file_hash** | **list[dict(str, object)]** |  | [optional] 
+**url** | **list[dict(str, object)]** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
